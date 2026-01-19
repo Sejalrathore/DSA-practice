@@ -25,9 +25,11 @@
 
 // longest common prefix 
 
-// var longestcommonprefix =function(strs){
-// if(strs.length == 0 )return "";
-// for()
+var longestcommonprefix =function(strs){
+if(strs.length == 0 )return "";
+for()
 
-// }
+}
+
+
 
